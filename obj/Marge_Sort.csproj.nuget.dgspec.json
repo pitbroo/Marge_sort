@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\projekty java i c#\\Marge_Sort\\Marge_Sort.csproj": {}
+    "D:\\Studia\\Semestr 6\\C#\\MergeSort\\Marge_sort\\Marge_Sort.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\projekty java i c#\\Marge_Sort\\Marge_Sort.csproj": {
+    "D:\\Studia\\Semestr 6\\C#\\MergeSort\\Marge_sort\\Marge_Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\projekty java i c#\\Marge_Sort\\Marge_Sort.csproj",
+        "projectUniqueName": "D:\\Studia\\Semestr 6\\C#\\MergeSort\\Marge_sort\\Marge_Sort.csproj",
         "projectName": "Marge_Sort",
-        "projectPath": "D:\\Program Files\\projekty java i c#\\Marge_Sort\\Marge_Sort.csproj",
-        "packagesPath": "C:\\Users\\piotr\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files\\projekty java i c#\\Marge_Sort\\obj\\",
+        "projectPath": "D:\\Studia\\Semestr 6\\C#\\MergeSort\\Marge_sort\\Marge_Sort.csproj",
+        "packagesPath": "C:\\Users\\Rafał\\.nuget\\packages\\",
+        "outputPath": "D:\\Studia\\Semestr 6\\C#\\MergeSort\\Marge_sort\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\piotr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rafał\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -50,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

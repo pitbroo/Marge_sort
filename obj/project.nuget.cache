@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e6N1g3FcEdTSa57yEDjkxbu29ACA6b9rgCo7SaXo7/EREnux1rnw5ZKEKdsSSxGJUEyZTBkVl9x94bZ/yrveDg==",
+  "dgSpecHash": "TqN857+xRca9rhXC6wjIRRl/Hh0wq/L+OHiDdgIsA+pQeIuBYEXbE9FJJwl5pZzbYCW4EmUnTk5V0HiQRgvObw==",
   "success": true,
-  "projectFilePath": "D:\\Program Files\\projekty java i c#\\Marge_Sort\\Marge_Sort.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\piotr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Studia\\Semestr 6\\C#\\MergeSort\\Marge_sort\\Marge_Sort.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

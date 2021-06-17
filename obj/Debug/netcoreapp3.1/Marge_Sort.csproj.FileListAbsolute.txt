@@ -11,3 +11,16 @@ D:\Program Files\projekty java i c#\Marge_Sort\obj\Debug\netcoreapp3.1\Marge_Sor
 D:\Program Files\projekty java i c#\Marge_Sort\obj\Debug\netcoreapp3.1\Marge_Sort.dll
 D:\Program Files\projekty java i c#\Marge_Sort\obj\Debug\netcoreapp3.1\Marge_Sort.pdb
 D:\Program Files\projekty java i c#\Marge_Sort\obj\Debug\netcoreapp3.1\Marge_Sort.genruntimeconfig.cache
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\bin\Debug\netcoreapp3.1\Marge_Sort.exe
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\bin\Debug\netcoreapp3.1\Marge_Sort.deps.json
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\bin\Debug\netcoreapp3.1\Marge_Sort.runtimeconfig.json
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\bin\Debug\netcoreapp3.1\Marge_Sort.runtimeconfig.dev.json
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\bin\Debug\netcoreapp3.1\Marge_Sort.dll
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\bin\Debug\netcoreapp3.1\Marge_Sort.pdb
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\obj\Debug\netcoreapp3.1\Marge_Sort.csprojAssemblyReference.cache
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\obj\Debug\netcoreapp3.1\Marge_Sort.AssemblyInfoInputs.cache
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\obj\Debug\netcoreapp3.1\Marge_Sort.AssemblyInfo.cs
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\obj\Debug\netcoreapp3.1\Marge_Sort.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\obj\Debug\netcoreapp3.1\Marge_Sort.dll
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\obj\Debug\netcoreapp3.1\Marge_Sort.pdb
+D:\Studia\Semestr 6\C#\MergeSort\Marge_sort\obj\Debug\netcoreapp3.1\Marge_Sort.genruntimeconfig.cache

@@ -75,33 +75,45 @@ public class Program
 {
 	public static void Main()
 	{
-		/*int[] ar = new int[] { 3, 1, 7, 2, 2, 9, 0 };
-		SortAlgorithm<int>.MergeSort(ar);
-		foreach (int i in ar)
-			Console.WriteLine(i);
-		
-		Console.WriteLine();
-		
-		ar = new int[] { 3, 1, 7, 2, 2, 9 };
-		SortAlgorithm<int>.MergeSort(ar);
-		foreach (int i in ar)
-			Console.WriteLine(i);
-		*/
 
-		int[] ar = new int[] { 3, 1, 7, 2, 2, 9, 0 };
-		Task sort = SortAlgorithm<int>.MergeSortAsync(ar);
-		sort.Wait();
+		Random random = new Random();
+		Console.WriteLine("Tablica zostanie wypełniona losowymi liczbami.");
+		Console.Write("Wprowadź długość tablicy: ");
+		string element;
+		int elements;
+		element = Console.ReadLine();
+		elements = Convert.ToInt32(element);
 
-		foreach (int i in ar)
-			Console.WriteLine(i);
+		int[] ar = new int[elements];
+		for(int i = 0; i < ar.Length; i++)
+        {
+			ar[i] = random.Next(1,100000);
+		}
 
-		Console.WriteLine();
+		Console.Write("Czy chcesz wyświetlić tablicę przed posprtowaniem? (y/n): ");
+		string val;
+		val = Console.ReadLine();
 
-		ar = new int[] { 3, 1, 7, 2, 2, 9 };
+		if (val.Equals("y"))
+		{
+			Console.Write("Tablica nieposortowana: ");
+			foreach (int i in ar)
+				Console.Write(i + " ");
+		}
+	
+			Task sort = SortAlgorithm<int>.MergeSortAsync(ar);
+			sort.Wait();
+
+			Console.Write("\nTablica posortowana: ");
+			foreach (int i in ar)
+				Console.Write(i + " ");
+
+
+		/*ar = new int[] { 3, 1, 7, 2, 2, 9 };
 		sort = SortAlgorithm<int>.MergeSortAsync(ar);
 		sort.Wait();
 		foreach (int i in ar)
 			Console.WriteLine(i);
-
+*/
 	}
 }
